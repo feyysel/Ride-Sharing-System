@@ -105,7 +105,7 @@ As a passenger, I want to rate the driver after the trip.
  9. UI/UX Validation Responsibility
 -Simple booking process, Clear trip information display, Easy navigation, Safe and trustworthy design, Minimal steps to complete booking, The Product Manager reviews and approves the interface before final implementation.
  10. Risk Consideration
-The system should identify and handle:
+ The system should identify and handle:
 -Fake accounts
 -Double booking errors
 -Payment failure
