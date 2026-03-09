@@ -1,7 +1,10 @@
         Intercity Ride Sharing System
  1. Introduction
-The Product Manager is responsible for defining and ensuring the success of the Intercity Ride Sharing System by focusing on product value, user needs, and feature prioritization.
-The Product Manager ensures that the system solves real transportation problems between cities while delivering a safe, affordable, and user-friendly experience.
+ 
+The Intercity Ride-Sharing System is a digital platform designed to connect drivers who have available seats in their vehicles with passengers traveling between cities. The system helps reduce transportation costs, minimize traffic congestion, and promote efficient use of vehicles by allowing multiple users to share the same ride.
+With the increasing demand for affordable and convenient transportation, especially for routes such as Dire Dawa to Addis Ababa, traditional transport options may be expensive, crowded, or difficult to access. This system provides an alternative solution by enabling users to easily find or offer rides through a mobile or web-based application.
+The platform allows users to register, search for available rides, book seats, communicate with drivers, and manage travel details in a simple and efficient way. Drivers can post their trips, specify available seats, and accept passengers who wish to travel along the same route.
+The main goal of the Intercity Ride-Sharing System is to create a safe, reliable, and cost-effective transportation network that benefits both drivers and passengers while promoting shared mobility and reducing environmental impact.
  2. Product Vision
 Vision Statement:
     “To provide a safe, affordable, and reliable platform that connects drivers with available seats to passengers traveling between cities.”
