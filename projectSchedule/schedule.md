@@ -31,3 +31,102 @@
 - **Push to GitHub by Monday 11:59 PM**
 
 *Created: March 7, 2026*
+Project Schedule – Development Phase
+
+# Project Schedule – Development Phase
+
+This section explains the team’s plan for completing the remaining work of the Ride Sharing System project.
+
+---
+
+## Week 1 – Finalizing Design and Requirements
+
+### Product Manager
+- Review system features  
+- Confirm requirements for booking, driver matching, and payment  
+- Ensure the product features are clearly defined  
+
+### UI/UX Designer
+- Finalize the interface design  
+- Improve the ride booking page  
+- Ensure all pages follow the same design style  
+
+### QA Engineer
+- Prepare test cases for system features  
+- Define testing strategy for booking and payment  
+
+### Developer
+- Start implementing frontend pages  
+- Begin backend setup for booking logic  
+
+**Expected Outcome**
+- Final UI design  
+- Clear feature requirements  
+- Testing plan prepared  
+
+---
+
+## Week 2 – Development Progress
+
+### Developer
+- Implement login and registration system  
+- Develop ride booking functionality  
+- Connect frontend pages with backend logic  
+
+### UI/UX Designer
+- Review implemented interface  
+- Suggest design improvements if needed  
+
+### Product Manager
+- Review development progress  
+- Ensure features match the product requirements  
+
+### QA Engineer
+- Prepare the testing environment  
+
+**Expected Outcome**
+- Core system features implemented  
+- Frontend and backend connected  
+
+---
+
+## Week 3 – Testing and Bug Fixing
+
+### QA Engineer
+- Perform functional testing  
+- Test booking system and login functionality  
+- Report bugs  
+
+### Developer
+- Fix bugs found during testing  
+- Improve system stability  
+
+### Product Manager
+- Verify features meet requirements  
+
+### Project Manager
+- Track progress and ensure tasks are completed  
+
+**Expected Outcome**
+- Bugs identified and fixed  
+- System stability improved  
+
+---
+
+## Week 4 – Final Review and Submission
+
+### QA Engineer
+- Perform final system testing  
+
+### Product Manager
+- Verify acceptance criteria  
+
+### Project Manager
+- Review project completion  
+
+### Team
+- Prepare final project presentation  
+
+**Expected Outcome**
+- Fully tested system  
+- Ready for submission  
