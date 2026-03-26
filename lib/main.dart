@@ -22,10 +22,11 @@ class HomePage extends StatelessWidget {
       body: Stack(
         children: [
           //Fake Map Background
+          
           Container(
             height: double.infinity,
             width: double.infinity,
-            color: Colors.grey[300],
+            color: const Color.fromARGB(255, 196, 140, 140),
             child: Center(child: Text("Map Coming Soon")),
           ),
 
